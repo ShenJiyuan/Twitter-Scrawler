@@ -1,0 +1,46 @@
+
+---------------------------------------------------------------------------------------------
+                                                                                            |
+files:   id_0 ~ id_19
+                                                                                            |
+---------------------------------------------------------------------------------------------
+                                                                                            |
+# of objective total images:
+                                                                                            |
+  20 * 5000 = 100 k
+                                                                                            |
+---------------------------------------------------------------------------------------------
+# of each id_file downloaded images:
+                                                                                            |
+  id_0_images: 3102      id_1_images: 3173      id_2_images: 3223      id_3_images: 3119
+                                                                                            |
+  id_4_images: 3217      id_5_images: 3385      id_6_images: 3430      id_7_images: 3208
+                                                                                            |
+  id_8_images: 3080      id_9_images: 3196      id_10_images: 3200     id_11_images: 3192
+                                                                                            |
+  id_12_images: 3161     id_13_images: 3153     id_14_images: 3220     id_15_images: 3284
+                                                                                            |
+  id_16_images: 3263     id_17_images: 3123     id_18_images: 3156     id_19_images: 3164
+                                                                                            |
+% of each id_file downloaded images:
+                                                                                            |
+  id_0_images: 0.6204    id_1_images: 0.6346    id_2_images: 0.6446    id_3_images: 0.6238
+                                                                                            |
+  id_4_images: 0.6434    id_5_images: 0.6770    id_6_images: 0.6860    id_7_images: 0.6416
+                                                                                            |
+  id_8_images: 0.6160    id_9_images: 0.6392    id_10_images: 0.6400   id_11_images: 0.6384
+                                                                                            |
+  id_12_images: 0.6322   id_13_images: 0.6306   id_14_images: 0.6440   id_15_images: 0.6568
+                                                                                            |
+  id_16_images: 0.6526   id_17_images: 0.6246   id_18_images: 0.6312   id_19_images: 0.6328
+                                                                                            |
+---------------------------------------------------------------------------------------------
+# of total id_file downloaded images:
+                                                                                            |
+  64049
+                                                                                            |
+% of total id_file downloaded images:
+                                                                                            |
+  0.64049
+                                                                                            |
+---------------------------------------------------------------------------------------------
